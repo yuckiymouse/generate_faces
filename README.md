@@ -1,2 +1,2 @@
 # generate_faces
-# generate_faces
+This is the project provided by Udacity.
